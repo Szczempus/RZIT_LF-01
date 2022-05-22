@@ -1,5 +1,4 @@
-# RZIT_LF-01
-Projekt wspólnego line followera dla członków RzIT 
+# RZIT_LF-01: Projekt wspólnego line followera dla członków RzIT 
 ---------------------------------------------------
 
 ## Pierwszy zamysł koncpecyjny 
