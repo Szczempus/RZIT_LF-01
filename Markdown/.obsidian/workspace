@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "f11ae11ed5b60cc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce1722c01fb79045",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Interfaces.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a88a922121dd5fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "44f83d7129321559",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1df81e8fd809082e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3bde69bd6d6d6fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2145682ce87b6a40",
+    "type": "split",
+    "children": [
+      {
+        "id": "d73c3bcb65be03dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f00d47ef590d238",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Interfaces.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ce1722c01fb79045",
+  "lastOpenFiles": [
+    "Interfaces.md"
+  ]
+}
