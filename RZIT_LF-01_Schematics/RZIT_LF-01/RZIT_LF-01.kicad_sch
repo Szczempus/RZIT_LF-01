@@ -8,14 +8,14 @@
   )
 
 
-  (sheet (at 118.11 54.61) (size 24.13 21.59) (fields_autoplaced)
+  (sheet (at 114.3 48.26) (size 27.94 24.13) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid 1fd4466b-2ca1-45cb-aec7-19b4b61d12d2)
-    (property "Sheet name" "Back_plate" (id 0) (at 118.11 53.8984 0)
+    (property "Sheet name" "Back_plate" (id 0) (at 114.3 47.5484 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "back_plate.kicad_sch" (id 1) (at 118.11 76.7846 0)
+    (property "Sheet file" "back_plate.kicad_sch" (id 1) (at 114.3 72.9746 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
   )
@@ -45,6 +45,9 @@
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/06605526-4678-48fd-a0fa-5a577aa3ba51"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/08574ea4-3686-4249-a3df-6a8f55c428f0"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/08fac2eb-8669-4a36-b11c-7892fe3d12e2"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -63,6 +66,9 @@
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/21134e23-2c72-4807-a012-3e65ab45d37c"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
+    (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/24ba3905-43ac-4e40-82e7-128d44942746"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/25eb344f-2e26-4af0-b9d7-c2dc91bae6a6"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -71,6 +77,9 @@
     )
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/2e2d4742-79aa-4bc1-a72c-7aa392ccaf24"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/30170b01-1124-4e99-90be-46e160dec4f3"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/31a9cdd2-5288-4d9b-bf4b-95e2dd897f61"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
@@ -150,9 +159,6 @@
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/a5e35d47-b467-4ac3-b983-89a9982e2e3d"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/a720cf76-448f-4fa9-b241-862453258760"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/a79bf299-ed19-4f53-9d17-c9f2e158af71"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -186,6 +192,12 @@
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/fdf4f916-f955-4ce5-a268-32ec203c1717"
       (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
+    (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/d7035a7a-77eb-4ac5-a4a7-60dbe8fb1ef1"
+      (reference "C?") (unit 1) (value "100nF") (footprint "")
+    )
+    (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/f7f08f22-7201-41d0-b3e9-3d6d3862c50b"
+      (reference "C?") (unit 1) (value "4.7uF") (footprint "")
+    )
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/1c2dab5a-9a43-4cc0-b7fa-78917f8390f0"
       (reference "R?") (unit 1) (value "200") (footprint "")
     )
@@ -204,6 +216,9 @@
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/3ce59eee-4b1c-438d-933a-53c9b7e55f32"
       (reference "R?") (unit 1) (value "20k") (footprint "")
     )
+    (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/3eee4add-1700-4e59-b90c-0c7ae537c501"
+      (reference "R?") (unit 1) (value "10k") (footprint "")
+    )
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/48d87eda-b5a7-4dd7-8482-e51be96f6a18"
       (reference "R?") (unit 1) (value "20k") (footprint "")
     )
@@ -213,8 +228,14 @@
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/4fd8c2e6-b993-4cbd-ba36-899a120a9e02"
       (reference "R?") (unit 1) (value "20k") (footprint "")
     )
+    (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/6031abde-b833-4f66-a1d6-40421ab3a37f"
+      (reference "R?") (unit 1) (value "10k") (footprint "")
+    )
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/72bb3040-bd09-4e3a-95bc-d3043bc9b4b7"
       (reference "R?") (unit 1) (value "200") (footprint "")
+    )
+    (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/7ce0890a-dc24-451f-8dc3-ef0f4639c18f"
+      (reference "R?") (unit 1) (value "10k") (footprint "")
     )
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/80299693-a029-4038-b7d8-5c94f629dc1d"
       (reference "R?") (unit 1) (value "20k") (footprint "")
@@ -236,6 +257,9 @@
     )
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/b7133126-3514-4f73-a9f0-24b5253447cb"
       (reference "R?") (unit 1) (value "200") (footprint "")
+    )
+    (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/c12a6f96-6f0b-46b9-aaed-d5e718e4d3d6"
+      (reference "R?") (unit 1) (value "10k") (footprint "")
     )
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/d2a58691-1ce2-4a44-b02d-e07298cb17d6"
       (reference "R?") (unit 1) (value "200") (footprint "")
@@ -273,9 +297,6 @@
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/842f0696-ff76-4877-a2b7-e5b885f6efc7"
       (reference "U?") (unit 1) (value "QRE1113") (footprint "OptoDevice:OnSemi_CASE100AQ")
     )
-    (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/86eab7b8-2ba1-468f-aff8-8d00b048fda5"
-      (reference "U?") (unit 1) (value "VL53L1CXV0FY1") (footprint "Sensor_Distance:ST_VL53L1x")
-    )
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/94c9a039-9b74-442a-be87-64ea896cb680"
       (reference "U?") (unit 1) (value "QRE1113") (footprint "OptoDevice:OnSemi_CASE100AQ")
     )
@@ -287,6 +308,9 @@
     )
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/b071f758-43b7-4959-8880-34eff15be8fa"
       (reference "U?") (unit 1) (value "QRE1113") (footprint "OptoDevice:OnSemi_CASE100AQ")
+    )
+    (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/e4c2de01-8174-46d2-8769-fcbe800f2b70"
+      (reference "U?") (unit 1) (value "VL53L1CXV0FY1") (footprint "Sensor_Distance:ST_VL53L1x")
     )
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/e6bd091a-1102-4950-af60-0d60abf26d28"
       (reference "U?") (unit 1) (value "QRE1113") (footprint "OptoDevice:OnSemi_CASE100AQ")
