@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP 52437-2471
+D FFC & FPC Connectors RA SMT ZIF BTTM 24P GOLD
+K
+F https://componentsearchengine.com/Datasheets/2/52437-2471.pdf
+$ENDCMP
+#
+#End Doc Library
