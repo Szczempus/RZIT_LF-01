@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "RzIT Line Follower project")
+    (date "2022-05-31")
+    (rev "1.0")
+    (company "Rzeszowska Grupa IT ~ Krzysztof Strzepek")
+  )
+
   (lib_symbols
   )
 
@@ -201,6 +208,30 @@
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/22013383-f8f5-4afa-8645-de4b0eb75934"
       (reference "#PWR0154") (unit 1) (value "GND") (footprint "")
     )
+    (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/163e6b8b-1e74-4ebe-a97e-70f5bb153174"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/1fd4466b-2ca1-45cb-aec7-19b4b61d12d2/30fd7273-12d2-4c5d-9e3e-36162b03862b"
+      (reference "#PWR?") (unit 1) (value "+7.5V") (footprint "")
+    )
+    (path "/1fd4466b-2ca1-45cb-aec7-19b4b61d12d2/40cae0cf-b06d-4c8e-8633-0b4b72457b8f"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/1fd4466b-2ca1-45cb-aec7-19b4b61d12d2/448d1762-7d23-46e8-bf43-233f169489f8"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/6bbd90c6-fa9e-4b74-9dc6-7e50a5e8ab41"
+      (reference "#PWR?") (unit 1) (value "+7.5V") (footprint "")
+    )
+    (path "/1fd4466b-2ca1-45cb-aec7-19b4b61d12d2/95862df0-2ff4-4d14-8692-075f12e2fc2a"
+      (reference "#PWR?") (unit 1) (value "+7.5V") (footprint "")
+    )
+    (path "/1fd4466b-2ca1-45cb-aec7-19b4b61d12d2/ad8452fc-09d2-406f-ba9c-c6eba77655c3"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/f17e8f04-60ed-4a03-b4b5-51633b961540"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/cab93a15-0bba-4dcb-9464-b535d0de5b4a"
       (reference "C?") (unit 1) (value "10uF") (footprint "")
     )
@@ -216,8 +247,14 @@
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/0a9c9ac6-7b66-4cc0-b086-7171acf625a8"
       (reference "D?") (unit 1) (value "LED") (footprint "")
     )
+    (path "/1fd4466b-2ca1-45cb-aec7-19b4b61d12d2/0af280ea-fd41-427d-9021-030dd563c52b"
+      (reference "J?") (unit 1) (value "52437-2471") (footprint "524372471")
+    )
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/1c1ceb41-a4b5-42b1-a76c-15eea2ca991b"
       (reference "J?") (unit 1) (value "52437-2471") (footprint "524372471")
+    )
+    (path "/1fd4466b-2ca1-45cb-aec7-19b4b61d12d2/7cc88869-d8cd-46b6-9d5c-16c2e9deda35"
+      (reference "J?") (unit 1) (value "Conn_01x02") (footprint "Connector_JST:JST_XH_B2B-XH-AM_1x02_P2.50mm_Vertical")
     )
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/1c2dab5a-9a43-4cc0-b7fa-78917f8390f0"
       (reference "R?") (unit 1) (value "200") (footprint "")
