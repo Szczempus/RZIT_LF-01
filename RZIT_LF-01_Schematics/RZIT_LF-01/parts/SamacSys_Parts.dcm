@@ -12,4 +12,10 @@ K
 F https://componentsearchengine.com/Datasheets/2/52437-2471.pdf
 $ENDCMP
 #
+$CMP AS5600-ASOM
+D IC SENSOR MAG ROTARY 12BIT 8SOIC
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-11/214624.pdf
+$ENDCMP
+#
 #End Doc Library
