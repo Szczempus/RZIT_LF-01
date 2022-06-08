@@ -247,6 +247,9 @@
     (path "/2e1b8e48-0b26-4cf5-b4e7-1ce16b5ce0be/0a9c9ac6-7b66-4cc0-b086-7171acf625a8"
       (reference "D?") (unit 1) (value "LED") (footprint "")
     )
+    (path "/1fd4466b-2ca1-45cb-aec7-19b4b61d12d2/c4d3595c-8cb5-44f3-9058-12333138319b"
+      (reference "IC?") (unit 1) (value "AS5600-ASOM") (footprint "SOIC127P600X175-8N")
+    )
     (path "/1fd4466b-2ca1-45cb-aec7-19b4b61d12d2/0af280ea-fd41-427d-9021-030dd563c52b"
       (reference "J?") (unit 1) (value "52437-2471") (footprint "524372471")
     )
